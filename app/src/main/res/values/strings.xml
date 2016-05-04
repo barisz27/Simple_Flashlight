@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Flashlight</string>
+    <string name="on_off">On/Off Flash</string>
+    <string name="err">Error!</string>
+    <string name="alert_message">Flash feature is not available on this device</string>
+    <string name="ok">OK</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Basit Elfeneri</string>
+    <string name="on_off">Aç/Kapa</string>
+    <string name="err">Hata!</string>
+    <string name="alert_message">Bu cihazda flaş özelliği bulunmuyor</string>
+    <string name="ok">OK</string>
+</resources>
